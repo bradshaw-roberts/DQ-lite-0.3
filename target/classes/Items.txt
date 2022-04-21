@@ -1,0 +1,16 @@
+Potion|Health|consumable|15|1|15|
+Super Potion|Health|consumable|30|4|30|
+Either|Mana|consumable|5|2|10|
+Super Either|Mana|consumable|5|5|10|
+Full Either|Mana|consumable|5|9|10|
+Stick|attack|Weapon|2|1|10|
+Club|attack|Weapon|4|3|60|
+Copper Sword|attack|Weapon|10|5|180|
+Hand Axe|attack|Weapon|15|7|560|
+Broad Sword|attack|Weapon|20|9|1500|
+Flame Sword|attack|Weapon|28|10|9800|
+Plain Clothes|defence|Armor|2|1|20|
+Leather Armor|defence|Armor|4|3|70|
+Chain Mail|defence|Armor|10|5|300|
+Half Plate|defence|Armor|16|7|1000|
+Full Plate|defence|Armor|24|9|3000|

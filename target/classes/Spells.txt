@@ -1,0 +1,16 @@
+Heal|All|10|2|2|Recovery|1|10|
+Cure Water|Water|14|2|2|Recovery|2|10|
+Divine Blessing|All|20|2|2|Recovery|4|10|
+Fountain of Youth|Water|30|2|2|Recovery|6|10|
+Full Rest|All|100|2|2|Recovery|8|10|
+Discharge|All|5|0|1|Attack|1|5|
+Flame|Fire|12|1|2|Attack|3|10|
+Fire Ball|All|24|2|5|Attack|5|30|
+Hell Fire|Fire|36|3|10|Attack|7|60|
+Bubble|Water|10|1|2|Attack|3|10|
+Water Ball|Water|20|2|5|Attack|5|30|
+Splash Flow|Water|30|3|10|Attack|7|60|
+Gust|Wind|10|1|1|Attack|3|10|
+Wind Shock|Wind|20|2|4|Attack|5|30|
+Tornado|Wind|30|3|9|Attack|7|60|
+Test|all|1|2|3|Attack|4|5|
